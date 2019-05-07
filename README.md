@@ -12,6 +12,18 @@ A curated list of every article, paper, videos I study from.
 7. PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection [Article](https://towardsdatascience.com/pvanet-deep-but-lightweight-neural-networks-for-real-time-object-detection-aa9de432512)
 8. Deep learning drizzle [Website](https://deep-learning-drizzle.github.io/)
 9. Deep unsupervised learning. [Videos](https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos)
+10. A Neural Network in 13 lines of Python [Article](https://iamtrask.github.io/2015/07/27/python-network-part2/)
+11. Tensorflow tutorials [Github](https://github.com/MorvanZhou/Tensorflow-Tutorial)
+12. 8 Fun Machine Learning Projects for Beginners [Article](https://elitedatascience.com/machine-learning-projects-for-beginners)
+13. 6 Deep Learning Applications a beginner can build in minutes. [Article](https://www.analyticsvidhya.com/blog/2017/02/6-deep-learning-applications-beginner-python/)
+14. 24 Ultimate Data Science Projects To Boost Your Knowledge and Skills. [Article](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
+15. The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3). [Article](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
+
+## Dataset 
+1. Open Datasets - [Skymind](https://skymind.ai/wiki/open-datasets)
+2. Quora answer - [Link](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
+3. Medical Data - [Github](https://github.com/beamandrew/medical-data)
+
 # Reinforcement learning
 1. The Complete Reinforcement Learning Dictionary. [Article](https://towardsdatascience.com/the-complete-reinforcement-learning-dictionary-e16230b7d24e)
 # Miscellaneous
