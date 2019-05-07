@@ -17,7 +17,8 @@
 14. 24 Ultimate Data Science Projects To Boost Your Knowledge and Skills. [Article](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
 15. The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3). [Article](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 16. Awesome - Most Cited Deep Learning Papers [Github](https://github.com/terryum/awesome-deep-learning-papers)
-17. Deep learning courses, papers, researchers etc list. [Github](https://github.com/ChristosChristofidis/awesome-deep-learning)
+17. Deep learning courses, papers, researchers etc list. [Github](https://github.com/ChristosChristofidis/awesome-deep-learning) 
+18. Jeremy jackson deep learning resources. [Website](http://www.jeremydjacksonphd.com/category/deep-learning/)
 ## Dataset 
 1. Open Datasets - [Skymind](https://skymind.ai/wiki/open-datasets)
 2. Quora answer - [Link](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
