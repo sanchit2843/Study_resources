@@ -1,5 +1,5 @@
 # Study resources
-A curated list of every article, paper, videos I study from. 
+A curated list of every article, paper, videos I refer from. 
 
 
 # Deep learning
