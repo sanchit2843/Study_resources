@@ -1,6 +1,7 @@
 # Study resources
-A curated list of every article, paper, videos I refer from. 
+A list of every article, paper, videos I refer from. 
 
+# Content
 
 # Deep learning
 1. Deep learning for robotics pieter abbeel [Video](https://www.youtube.com/watch?v=SYqV543LWoY)
@@ -30,3 +31,4 @@ A curated list of every article, paper, videos I refer from.
 2. Deep reinforcement learning course. [Articles](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/#syllabus)
 # Miscellaneous
 1. An introduction to web scrapping in python. [Article](https://medium.com/@shrutikalra251/an-introduction-to-web-scraping-using-python-edb0ccca42f?sk=a666980542c947ef6af72c9c6c5094b7)
+2. ROS [Website](http://www.theconstructsim.com/)
