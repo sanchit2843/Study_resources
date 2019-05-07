@@ -18,7 +18,8 @@ A curated list of every article, paper, videos I study from.
 13. 6 Deep Learning Applications a beginner can build in minutes. [Article](https://www.analyticsvidhya.com/blog/2017/02/6-deep-learning-applications-beginner-python/)
 14. 24 Ultimate Data Science Projects To Boost Your Knowledge and Skills. [Article](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
 15. The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3). [Article](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
-
+16. Awesome - Most Cited Deep Learning Papers [Github](https://github.com/terryum/awesome-deep-learning-papers)
+17. Deep learning courses, papers, researchers etc list. [Github](https://github.com/ChristosChristofidis/awesome-deep-learning)
 ## Dataset 
 1. Open Datasets - [Skymind](https://skymind.ai/wiki/open-datasets)
 2. Quora answer - [Link](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
@@ -26,5 +27,6 @@ A curated list of every article, paper, videos I study from.
 
 # Reinforcement learning
 1. The Complete Reinforcement Learning Dictionary. [Article](https://towardsdatascience.com/the-complete-reinforcement-learning-dictionary-e16230b7d24e)
+2. Deep reinforcement learning course. [Articles](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/#syllabus)
 # Miscellaneous
 1. An introduction to web scrapping in python. [Article](https://medium.com/@shrutikalra251/an-introduction-to-web-scraping-using-python-edb0ccca42f?sk=a666980542c947ef6af72c9c6c5094b7)
