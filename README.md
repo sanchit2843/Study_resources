@@ -1,6 +1,3 @@
-# Study resources
-A list of every article, paper, videos I refer from. 
-
 # Content
 
 # Deep learning
