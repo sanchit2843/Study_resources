@@ -19,6 +19,7 @@
 16. Awesome - Most Cited Deep Learning Papers [Github](https://github.com/terryum/awesome-deep-learning-papers)
 17. Deep learning courses, papers, researchers etc list. [Github](https://github.com/ChristosChristofidis/awesome-deep-learning) 
 18. Jeremy jackson deep learning resources. [Website](http://www.jeremydjacksonphd.com/category/deep-learning/)
+19. Neural networks by 3 blue 1 brown(Mathematics of gradient descent and backprop). [Videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 ## Dataset 
 1. Open Datasets - [Skymind](https://skymind.ai/wiki/open-datasets)
 2. Quora answer - [Link](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
