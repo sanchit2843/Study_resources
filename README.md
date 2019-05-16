@@ -23,7 +23,10 @@
 20. How can i prepare for research oriented goal. [Reddit](https://www.reddit.com/r/MachineLearning/comments/9e3bne/dhow_can_i_prepare_for_a_research_oriented_role/)
 21. A list of papers and other resources on Generative Adversarial (Neural) Networks. [Github](https://github.com/nightrome/really-awesome-gan)
 22. Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas. [Github](https://github.com/NirantK/awesome-project-ideas)
-22. Deep Learning Papers Reading Roadmap. [Github](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+23. Deep Learning Papers Reading Roadmap. [Github](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+24. The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch. [Github](https://github.com/ritchieng/the-incredible-pytorch)
+25. Ten techniques learned from fast ai. [Article](https://blog.floydhub.com/ten-techniques-from-fast-ai/)
+26. Understanding AUC - ROC Curve. [Article](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
 ## Dataset 
 1. Open Datasets - [Skymind](https://skymind.ai/wiki/open-datasets)
 2. Quora answer - [Link](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
