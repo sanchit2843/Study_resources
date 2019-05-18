@@ -27,7 +27,7 @@
 24. The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch. [Github](https://github.com/ritchieng/the-incredible-pytorch)
 25. Ten techniques learned from fast ai. [Article](https://blog.floydhub.com/ten-techniques-from-fast-ai/)
 26. Understanding AUC - ROC Curve. [Article](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
-27. Adversarial Examples Aren’t Bugs, They’re Features[Article](https://medium.com/syncedreview/adversarial-examples-arent-bugs-they-re-features-c4b743975200)
+27. Adversarial Examples Aren’t Bugs, They’re Features [Article](https://medium.com/syncedreview/adversarial-examples-arent-bugs-they-re-features-c4b743975200)
 ## Dataset 
 1. Open Datasets - [Skymind](https://skymind.ai/wiki/open-datasets)
 2. Quora answer - [Link](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
