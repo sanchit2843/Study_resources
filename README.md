@@ -28,6 +28,8 @@
 25. Ten techniques learned from fast ai. [Article](https://blog.floydhub.com/ten-techniques-from-fast-ai/)
 26. Understanding AUC - ROC Curve. [Article](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
 27. Adversarial Examples Aren’t Bugs, They’re Features [Article](https://medium.com/syncedreview/adversarial-examples-arent-bugs-they-re-features-c4b743975200)
+28. Training Very Deep Networks [Paper](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
+29. 
 ## Dataset 
 1. Open Datasets - [Skymind](https://skymind.ai/wiki/open-datasets)
 2. Quora answer - [Link](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
