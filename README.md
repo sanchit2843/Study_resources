@@ -25,6 +25,7 @@
 |9.|Adversarial Examples Aren’t Bugs, They’re Features. |[Article](https://medium.com/syncedreview/adversarial-examples-arent-bugs-they-re-features-c4b743975200)|
 |10.|Training Very Deep Networks. |[Paper](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)|
 |11.|Andrej Karpathy blog. |[Website](http://karpathy.github.io/)|
+|12.|Incredible pytorch. |[Github](https://github.com/ritchieng/the-incredible-pytorch)|
 ## Computer Vision
 ||Title|Link|
 |---|---|---|
