@@ -1,5 +1,5 @@
 # Content
-
+[Deep learning](https://github.com/sanchit2843/Study_resources#Deeplearning) 
 # Deep learning
 Deep learning for robotics pieter abbeel [Video](https://www.youtube.com/watch?v=SYqV543LWoY)
 A guide to convolution arithmetic for deep learning. [Paper](https://arxiv.org/abs/1603.07285)
