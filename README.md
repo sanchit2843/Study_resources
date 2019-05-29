@@ -37,6 +37,7 @@
 ||Title|Link|
 |---|---|---|
 |1.|Natural language processing course stanford(cs224d). |[Video](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)|
+|2.|Lisbon machine learning school. |[video](https://www.youtube.com/playlist?list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N)|
 ## Study resources list
 ||Title|Link|
 |---|---|---|
