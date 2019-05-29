@@ -72,6 +72,8 @@
 |2.|Deep reinforcement learning course. |[Articles](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/#syllabus)|
 
 # Miscellaneous
+||Title|Link|
+|---|---|---|
 |1.|An introduction to web scrapping in python. |[Article](https://medium.com/@shrutikalra251/an-introduction-to-web-scraping-using-python-edb0ccca42f?sk=a666980542c947ef6af72c9c6c5094b7)|
 |2.|ROS |[Website](http://www.theconstructsim.com/)|
 |3.|How can i prepare for research oriented goal. |[Reddit](https://www.reddit.com/r/MachineLearning/comments/9e3bne/dhow_can_i_prepare_for_a_research_oriented_role/)|
