@@ -5,7 +5,7 @@
   - [Natural Language processing](https://github.com/sanchit2843/Study_resources#Natural-Language-processing)
   - [Study resources lists](https://github.com/sanchit2843/Study_resources#Study-resources-lists)
   - [Robotics](https://github.com/sanchit2843/Study_resources#Robotics)
-- [Dataset](https://github.com/sanchit2843/Study_resources#Dataset)
+  - [Datasets](https://github.com/sanchit2843/Study_resources#Dataset)
 - [Reinforcement learning](https://github.com/sanchit2843/Study_resources#Reinforcement-learning)
 - [Miscellaneous](https://github.com/sanchit2843/Study_resources#Miscellaneous)
 
