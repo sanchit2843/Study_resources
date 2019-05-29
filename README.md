@@ -24,7 +24,7 @@
 |8.|Understanding AUC - ROC Curve. |[Article](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)|
 |9.|Adversarial Examples Aren’t Bugs, They’re Features. |[Article](https://medium.com/syncedreview/adversarial-examples-arent-bugs-they-re-features-c4b743975200)|
 |10.|Training Very Deep Networks. |[Paper](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)|
-
+|11.|Andrej Karpathy blog. |[Website](http://karpathy.github.io/)|
 ## Computer Vision
 ||Title|Link|
 |---|---|---|
@@ -33,6 +33,7 @@
 |3.|A Brief Introduction To GANs. |[Article](https://medium.com/sigmoid/a-brief-introduction-to-gans-and-how-to-code-them-2620ee465c30)|
 |4.|PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection. |[Article](https://towardsdatascience.com/pvanet-deep-but-lightweight-neural-networks-for-real-time-object-detection-aa9de432512)|
 |5.|A list of papers and other resources on Generative Adversarial (Neural) Networks. |[Github](https://github.com/nightrome/really-awesome-gan)|
+|6.|Face recognition library. |[Website](https://face-recognition.readthedocs.io/en/latest/face_recognition.html)|
 ## Natural language processing
 ||Title|Link|
 |---|---|---|
