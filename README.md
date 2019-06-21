@@ -35,6 +35,7 @@
 |4.|PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection. |[Article](https://towardsdatascience.com/pvanet-deep-but-lightweight-neural-networks-for-real-time-object-detection-aa9de432512)|
 |5.|A list of papers and other resources on Generative Adversarial (Neural) Networks. |[Github](https://github.com/nightrome/really-awesome-gan)|
 |6.|Face recognition library. |[Website](https://face-recognition.readthedocs.io/en/latest/face_recognition.html)|
+|7.|Cycle Gans and Pix2Pix. |[Article](https://towardsdatascience.com/cyclegans-and-pix2pix-5e6a5f0159c4)|
 ## Natural language processing
 ||Title|Link|
 |---|---|---|
