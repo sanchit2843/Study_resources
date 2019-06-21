@@ -26,6 +26,8 @@
 |10.|Training Very Deep Networks. |[Paper](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)|
 |11.|Andrej Karpathy blog. |[Website](http://karpathy.github.io/)|
 |12.|Incredible pytorch. |[Github](https://github.com/ritchieng/the-incredible-pytorch)|
+|13.|Tensorboard with google colab |[Article](https://www.dlology.com/blog/quick-guide-to-run-tensorboard-in-google-colab/)|
+
 ## Computer Vision
 ||Title|Link|
 |---|---|---|
