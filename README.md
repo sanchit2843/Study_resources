@@ -63,6 +63,7 @@
 |---|---|---|
 |1.|Deep learning for robotics pieter abbeel. |[Video](https://www.youtube.com/watch?v=SYqV543LWoY)|
 |2.|Augmenting SLAM with deep learning|[Article](https://www.therobotreport.com/augmenting-slam-with-deep-learning/)|
+|3.|Robotics Coursework|[Github list](https://github.com/mithi/robotics-coursework)|
 
 ## Dataset 
 ||Title|Link|
