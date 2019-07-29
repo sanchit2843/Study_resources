@@ -57,7 +57,7 @@
 |9.|Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas. |[Github](https://github.com/NirantK/awesome-project-ideas)|
 |10.|Deep Learning Papers Reading Roadmap. |[Github](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)|
 |11.|The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch. |[Github](https://github.com/ritchieng/the-incredible-pytorch)|
-
+|12.|Generating Diverse High-Fidelity Images with VQ-VAE-2|[Paper](https://arxiv.org/abs/1906.00446)|
 ## Robotics
 ||Title|Link|
 |---|---|---|
