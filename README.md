@@ -15,7 +15,7 @@
 ||Title|Link|
 |---|---|---|
 |1.|A Recipe for Training Neural Networks. |[Article](http://karpathy.github.io/2019/04/25/recipe)|
-|2.|Deep learning books |[D2L.ai](https://d2l.ai/), [Deep learning book](https://www.deeplearningbook.org/) , [Neural network and deep learning](http://neuralnetworksanddeeplearning.com/index.html), [Deep learning wizard](https://www.deeplearningwizard.com/deep_learning/intro/)|
+|2.|Deep learning books |[D2L.ai](https://d2l.ai/), [Deep learning book](https://www.deeplearningbook.org/) , [Neural network and deep learning](http://neuralnetworksanddeeplearning.com/index.html), [Deep learning wizard](https://www.deeplearningwizard.com/deep_learning/intro/), [A guide to convolutional neural networks for computer vision](https://ieeexplore.ieee.org/document/8295029/)|
 |3.|Deep unsupervised learning. |[Videos](https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos)|
 |4.|A Neural Network in 13 lines of Python. |[Article](https://iamtrask.github.io/2015/07/27/python-network-part2/)|
 |5.| Tensorflow tutorials |[Github](https://github.com/MorvanZhou/Tensorflow-Tutorial)|
