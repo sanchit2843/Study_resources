@@ -38,6 +38,8 @@
 |5.|A list of papers and other resources on Generative Adversarial (Neural) Networks. |[Github](https://github.com/nightrome/really-awesome-gan)|
 |6.|Face recognition library. |[Website](https://face-recognition.readthedocs.io/en/latest/face_recognition.html)|
 |7.|Cycle Gans and Pix2Pix. |[Article](https://towardsdatascience.com/cyclegans-and-pix2pix-5e6a5f0159c4)|
+|8.|Object detection blogs and codes|1. [Article](https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/)<br> 2. [Article](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)<br>3. [Article](http://machinethink.net/blog/object-detection/)|
+
 ## Natural language processing
 ||Title|Link|
 |---|---|---|
