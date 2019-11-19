@@ -27,6 +27,7 @@
 |11.|Andrej Karpathy blog. |[Website](http://karpathy.github.io/)|
 |12.|Incredible pytorch. |[Github](https://github.com/ritchieng/the-incredible-pytorch)|
 |13.|Tensorboard with google colab |[Article](https://www.dlology.com/blog/quick-guide-to-run-tensorboard-in-google-colab/)|
+|14.|Survey on deep learning with class imbalance. |[Paper](https://link.springer.com/content/pdf/10.1186%2Fs40537-019-0192-5.pdf)|
 
 ## Computer Vision
 ||Title|Link|
