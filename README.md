@@ -41,7 +41,7 @@
 |6.|Face recognition library. |[Website](https://face-recognition.readthedocs.io/en/latest/face_recognition.html)|
 |7.|Cycle Gans and Pix2Pix. |[Article](https://towardsdatascience.com/cyclegans-and-pix2pix-5e6a5f0159c4)|
 |8.|Object detection blogs and codes|1. [Article](https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/)<br> 2. [Article](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)<br>3. [Article](http://machinethink.net/blog/object-detection/)|
-
+|9.|Generating Diverse High-Fidelity Images with VQ-VAE-2|[Paper](https://arxiv.org/abs/1906.00446)|
 
 ## Natural language processing
 ||Title|Link|
@@ -62,7 +62,8 @@
 |9.|Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas. |[Github](https://github.com/NirantK/awesome-project-ideas)|
 |10.|Deep Learning Papers Reading Roadmap. |[Github](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)|
 |11.|The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch. |[Github](https://github.com/ritchieng/the-incredible-pytorch)|
-|12.|Generating Diverse High-Fidelity Images with VQ-VAE-2|[Paper](https://arxiv.org/abs/1906.00446)|
+|12.|The Mathematics of Machine Learning|[Article](https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568)|
+
 ## Robotics
 ||Title|Link|
 |---|---|---|
