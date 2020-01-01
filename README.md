@@ -29,6 +29,8 @@
 |13.|Tensorboard with google colab |[Article](https://www.dlology.com/blog/quick-guide-to-run-tensorboard-in-google-colab/)|
 |14.|Survey on deep learning with class imbalance. |[Paper](https://link.springer.com/content/pdf/10.1186%2Fs40537-019-0192-5.pdf)|
 |15.|Backpropogation algorithm|[Article](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)|
+|16.|The Mathematics of Machine Learning|[Article](https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568)|
+
 
 ## Computer Vision
 ||Title|Link|
