@@ -46,6 +46,7 @@
 |9.|Generating Diverse High-Fidelity Images with VQ-VAE-2|[Paper](https://arxiv.org/abs/1906.00446)|
 |10.|Semantic segmentation over the years. |[Article](https://meetshah1995.github.io/semanticsegmentation/deeplearning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html)|
 |11.|Accident forecasting dataset and paper. |[paper](https://ankitshah009.github.io/accident_forecasting_traffic_camera)|
+|12.|A course on evolution of object detection algorithms. |[youtube](https://www.youtube.com/playlist?list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S)|
 
 ## Natural language processing
 ||Title|Link|
