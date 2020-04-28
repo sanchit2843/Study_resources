@@ -6,6 +6,7 @@
   - [Study resources lists](https://github.com/sanchit2843/Study_resources#Study-resources-lists)
   - [Robotics](https://github.com/sanchit2843/Study_resources#Robotics)
   - [Datasets](https://github.com/sanchit2843/Study_resources#Dataset)
+- [Mathematics](https://github.com/sanchit2843/Study_resources#Mathematics)
 - [Reinforcement learning](https://github.com/sanchit2843/Study_resources#Reinforcement-learning)
 - [Miscellaneous](https://github.com/sanchit2843/Study_resources#Miscellaneous)
 
@@ -85,6 +86,11 @@
 |1.|Open Datasets |[Skymind](https://skymind.ai/wiki/open-datasets)|
 |2.|Quora answer |[Link](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)|
 |3.|Medical Data |[Github](https://github.com/beamandrew/medical-data)|
+
+# Mathematics
+||Title|Link|
+|---|---|---|
+|1.|Calculus summary for deep learning|[Article](http://wiki.fast.ai/index.php/Calculus_for_Deep_Learning)|
 
 # Reinforcement learning
 ||Title|Link|
