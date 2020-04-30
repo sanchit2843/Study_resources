@@ -44,7 +44,7 @@
 |5.|A list of papers and other resources on Generative Adversarial (Neural) Networks. |[Github](https://github.com/nightrome/really-awesome-gan)|
 |6.|Face recognition library. |[Website](https://face-recognition.readthedocs.io/en/latest/face_recognition.html)|
 |7.|Cycle Gans and Pix2Pix. |[Article](https://towardsdatascience.com/cyclegans-and-pix2pix-5e6a5f0159c4)|
-|8.|Object detection blogs and codes|1. [Article](https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/)<br> 2. [Article](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)<br>3. [Article](http://machinethink.net/blog/object-detection/)|
+|8.|Object detection blogs and codes|1. [Article](https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/)<br> 2. [Article](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)<br>3. [Article](http://machinethink.net/blog/object-detection/)|<br>4. [Article](https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/)|
 |9.|Generating Diverse High-Fidelity Images with VQ-VAE-2|[Paper](https://arxiv.org/abs/1906.00446)|
 |10.|Semantic segmentation over the years. |[Article](https://meetshah1995.github.io/semanticsegmentation/deeplearning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html)|
 |11.|Accident forecasting dataset and paper. |[paper](https://ankitshah009.github.io/accident_forecasting_traffic_camera)|
